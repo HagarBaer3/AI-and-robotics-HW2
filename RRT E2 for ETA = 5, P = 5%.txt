@@ -1,0 +1,24 @@
+Total cost of path (run 1): 508.22
+Total time (run 1): 25.43
+Total cost of path (run 2): 508.22
+Total time (run 2): 0.02
+Total cost of path (run 3): 508.22
+Total time (run 3): 0.02
+Total cost of path (run 4): 508.22
+Total time (run 4): 0.01
+Total cost of path (run 5): 508.22
+Total time (run 5): 0.01
+Total cost of path (run 6): 508.22
+Total time (run 6): 0.01
+Total cost of path (run 7): 508.22
+Total time (run 7): 0.02
+Total cost of path (run 8): 508.22
+Total time (run 8): 0.03
+Total cost of path (run 9): 508.22
+Total time (run 9): 0.01
+Total cost of path (run 10): 508.22
+Total time (run 10): 0.02
+Calc plan for:
+Goal prob: 0.05
+Extend mode: E2
+tested eta: 5
