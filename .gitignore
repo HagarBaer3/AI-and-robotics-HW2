@@ -2,3 +2,5 @@
 /New folder/
 /RRT TESTS/
 /TEST/
+__pycache__/
+*.pyc
